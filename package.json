@@ -1,0 +1,30 @@
+{
+  "name": "sit725-2023-t2-p2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nipunasamaraweera"
+  },
+  "homepage": "",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "expresss": "^0.0.0",
+    "http": "^0.0.1-security",
+    "mocha": "^10.2.0",
+    "mongodb": "^4.17.1",
+    "nodemon": "^3.0.1",
+    "request": "^2.88.2",
+    "socket.io": "^4.7.2"
+  }
+}
